@@ -1,6 +1,4 @@
-# My Paper Title
-
-An Interactive Data Imputation System
+# An Interactive Data Imputation System
 
 ## Introduction
 
