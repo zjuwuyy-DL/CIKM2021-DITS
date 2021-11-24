@@ -1,5 +1,7 @@
 # An Interactive Data Imputation System
 
+## The screencast video is in "Releases" (at the right corner of this web).
+
 ## Introduction
 
 - An interactive data imputation system, named DITS. DITS incorporates ten state-of-the- art imputation algorithms (including two statistical ones, four machine learning ones, and four deep learning ones) and a newly proposed variational generative adversarial imputation network VGAIN
